@@ -1,3 +1,6 @@
 [submodule "AtosLearning"]
 	path = AtosLearning
 	url = https://github.com/kiwis08/AtosLearning
+[submodule "JardinAmanecer"]
+	path = JardinAmanecer
+	url = https://github.com/kiwis08/Jardin_Amanecer
