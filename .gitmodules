@@ -4,3 +4,6 @@
 [submodule "JardinAmanecer"]
 	path = JardinAmanecer
 	url = https://github.com/kiwis08/Jardin_Amanecer
+[submodule "CircuiTec"]
+	path = CircuiTec
+	url = https://github.com/kiwis08/CircuiTec
