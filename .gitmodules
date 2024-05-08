@@ -7,3 +7,6 @@
 [submodule "CircuiTec"]
 	path = CircuiTec
 	url = https://github.com/kiwis08/CircuiTec
+[submodule "AtosLearningAPI"]
+	path = AtosLearningAPI
+	url = https://github.com/MarioBros-TC2005B/AtosLearningAPI
