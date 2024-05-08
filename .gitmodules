@@ -10,3 +10,6 @@
 [submodule "AtosLearningAPI"]
 	path = AtosLearningAPI
 	url = https://github.com/MarioBros-TC2005B/AtosLearningAPI
+[submodule "StockUpBackend"]
+	path = StockUpBackend
+	url = https://github.com/StockUp-TEC/stockup-backend
